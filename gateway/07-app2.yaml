@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: app2
-        image: joindevops/app2
+        image: dasarivinay/app2
         ports:
         - containerPort: 80
 ---
